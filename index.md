@@ -12,7 +12,7 @@ startdate: 2020-02-05
 enddate: 2020-02-05        
 instructor: ["David R. Pugh"]
 helper: ["TBD"]
-email: ["david.pugh@kaust.edu.as"]
+email: ["david.pugh@kaust.edu.sa"]
 collaborative_notes: https://pad.carpentries.org/2020-02-05-kaust-vislab
 ---
 
