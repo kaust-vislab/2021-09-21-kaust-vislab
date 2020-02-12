@@ -125,7 +125,7 @@ This block displays the date and links to Google Calendar.
 </p>
 
 <p id="course-material">
-  <strong>Course Materials:</strong> <a href="https://kaust-vislab.github.io/introduction-to-conda-for-data-scientists/">Introduction to Conda for (Data) Scientists</a>
+  <strong>Course Materials:</strong> <a href="https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/">Introduction to Conda for (Data) Scientists</a>
 </p>
 
 {% comment %}
