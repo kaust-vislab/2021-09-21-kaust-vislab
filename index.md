@@ -1,19 +1,16 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "KAUST Visualization Core Lab" 
-address: "Building 3, level 5, room 5220 (Seaside)"
 country: "sa"
 language: "en"
-latitude: "22.307498"
-longitude: "39.104815"
-humandate: "05 February 2020"
+humandate: "22 September 2020"
 humantime: "1:00 pm  - 5:00 pm"
-startdate: 2020-02-05      
-enddate: 2020-02-05        
+startdate: 2020-09-22      
+enddate: 2020-09-22        
 instructor: ["David R. Pugh"]
 helper: ["TBD"]
 email: ["david.pugh@kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2020-02-05-kaust-vislab
+collaborative_notes: https://pad.carpentries.org/2020-09-22-kaust-vislab
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
