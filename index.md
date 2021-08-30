@@ -4,14 +4,14 @@ venue: "KAUST Visualization Core Lab"
 address: "Virtual"
 country: "sa"
 language: "en"
-humandate: "23 February 2021"
+humandate: "21 September 2021"
 humantime: "1:00 pm  - 5:00 pm"
-startdate: 2021-02-23      
-enddate: 2021-02-23        
+startdate: 2021-09-21      
+enddate: 2021-09-21        
 instructor: ["Dr. David R. Pugh"]
 helper: ["TBD"]
 email: ["help@vis.kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2021-02-23-kaust-vislab
+collaborative_notes: https://pad.carpentries.org/2021-09-21-kaust-vislab
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -119,7 +119,7 @@ This block displays the date and links to Google Calendar.
 {% endif %}
 
 <p id="registration">
-  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_conda_for_data_science_spring_2021_kaust">KAUST Affiliated</a>, <a href="https://kaustforms.formstack.com/forms/intro_conda_for_data_science_spring_2021_non_kaust">Non-KAUST Affiliated</a>
+  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_conda_for_data_science_fall_2021">Register Now!</a>
 </p>
 
 <p id="course-material">
